@@ -13,13 +13,13 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding 15px 60px:
+    padding: 15px 60px;
 }
 
 #page-logo {
     padding: 10px;
     font-family: "Oleo Script", sans-serif;
-    color: rgb(245, 243, 160);
+    color: rgb(245, 243, 160) !important;
     font-size: 50px;
     text-decoration: none;
     text-transform: uppercase;
